@@ -1,0 +1,10 @@
+{
+ "ui_defs": [
+    "ui/ext/hud_screen/display.json",
+    "ui/r4isen1920/invsee/inventory.r4ui",
+    "ui/ext/hud_screen/toast.json",
+    "ui/ext/server_form/sf_quest.json",
+    "ui/ext/server_form/sf_rwspin.json",
+    "ui/ext/server_form/sf_chests.json"
+  ]
+}
